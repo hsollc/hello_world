@@ -1,5 +1,5 @@
 <div align=center> 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=AI%20DATAScientist&fontAlignY=45&fontSize=25&height=70&desc=HSOLLC&descAlignY=100">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=AI%20DATAScientist&fontAlignY=45&fontSize=25&height=70&desc=HSOLLC&descAlignY=80">
 <br>
 
 <div align=center><h1>📚 STACKS</h1></div>
