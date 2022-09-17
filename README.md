@@ -1,3 +1,1 @@
-# hello_world
-repository for practicing code
-# git/github를 통한 협업능력강화가 중요
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=AI%20DATAScientist&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=HSOLLC&descAlignY=70">
