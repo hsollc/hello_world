@@ -2,6 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=AI%20DATAScientist&fontAlignY=45&fontSize=25&height=70&desc=HSOLLC&descAlignY=80">
 <br>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HSOLLC)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
